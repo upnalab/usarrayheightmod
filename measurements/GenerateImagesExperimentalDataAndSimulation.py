@@ -83,10 +83,6 @@ simulation(sim_A, '01_sim_A')
 experHeightMod_A = pd.read_csv('ExperimentalData_HeightMod/HeightMod_A.csv', header = None) # Muy Buena (rotar un poco y recortar)
 experimental(experHeightMod_A, '02_experHeightMod_A')
 
-# Experimental data
-experPhaseMod_A = pd.read_csv('ExperimentalData_PhasedMod/PhaseMod_A.csv', header = None) # Muy Buena (rotar un poco y recortar)
-experimental(experPhaseMod_A, '03_experPhaseMod_A')
-
 # Target
 target_12 = abs(1-ImageUtils.loadNorm("../patterns/12.png", slicePx))
 targetPlot(target_12, '04_target_12')
@@ -98,10 +94,6 @@ simulation(sim_12, '05_sim_12')
 # Experimental data
 experHeightMod_12 = pd.read_csv('ExperimentalData_HeightMod/HeightMod_12.csv', header = None) # Buena
 experimental(experHeightMod_12, '06_experHeightMod_12')
-
-# Experimental data
-experPhasedMod_12 = pd.read_csv('ExperimentalData_PhasedMod/PhaseMod_12.csv', header = None) # Buena
-experimental(experPhasedMod_12, '07_experPhasedMod_12')
 
 # Target
 target_star = abs(1-ImageUtils.loadNorm("../patterns/star.png", slicePx))

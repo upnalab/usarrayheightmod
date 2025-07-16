@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 import sys
-sys.path.append("../..")
+sys.path.append("../../")
 from Waves import Waves
 
 plt.close('all')

@@ -12,6 +12,3 @@ class ImageUtils:
         target = target / np.max( target )
         return target
     
-    #TODO
-    #def loadNormFromPath(dirPath, slicePx):
-    
