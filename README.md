@@ -2,7 +2,9 @@
 **Authors:** Mikel Aldea<sup>1</sup>, Soma Mochizuki<sup>2</sup>, Manuel Lopez-Amo<sup>1</sup>, Ivan Fernandez<sup>1</sup>, Tatsuki Fushimi<sup>3</sup> and Asier Marzo<sup>1</sup>.
 
 **Affiliation 1)** Universidad Pública de Navarra, Departamento de Estadística, Informática y Matemáticas, Pamplona, Spain. 
+
 **Affiliation 2)** Graduate School of Comprehensive Human Sciences, University of Tsukuba, Tsukuba, 305-8550 Ibaraki, Japan. 
+
 **Affiliation 3)** Institute of Library, Information and Media Science, University of Tsukuba, Kasuga Campus Kasuga 1-2, Tsukuba 305-8550, Ibaraki, Japan.
 
 Paper published in:
